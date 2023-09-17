@@ -5,8 +5,8 @@
     "build": "rollup -c",
     "watch": "rollup -c -w",
     "dev": "npm-run-all --parallel start watch tail",
-    "start": "serve public",
-    "tail": "npx tailwindcss -i src/style.css -o ./public/style.css --watch"
+    "start": "serve docs",
+    "tail": "npx tailwindcss -i src/style.css -o docs/style.css --watch"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.4",

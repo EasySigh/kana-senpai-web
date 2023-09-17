@@ -3,5 +3,5 @@ node_modules
 src
 rollup.config.js
 tailwind.config.js
-public/script.js.map
+docs/script.js.map
 terms-and-conditions.md
