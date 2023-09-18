@@ -1,1 +1,7 @@
 .idea
+node_modules
+src
+rollup.config.js
+tailwind.config.js
+docs/script.js.map
+terms-and-conditions.md

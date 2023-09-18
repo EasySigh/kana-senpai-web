@@ -1,2 +1,3 @@
 # Kana Senpai
-#### Kana Senpai — Android app built to help you learn Japanese Kana.
+#### Learn Japanese Kana with ease and enjoyment.
+#### Go to <u>[this page](https://kana-senpai.app)</u> to check out the app.
