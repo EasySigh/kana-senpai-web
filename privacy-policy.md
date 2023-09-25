@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated September 11, 2023
+Last updated September 25, 2023
 
 
 This privacy notice for Dennis the Menace ("**we**", "**us**", or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
@@ -8,7 +8,8 @@ This privacy notice for Dennis the Menace ("**we**", "**us**", or "**our**"), de
 - Download and use our mobile application (Kana Senpai), or any other application of ours that links to this privacy notice
 - Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at kana.senpai.app@gmail.com.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@kana-senpai.app
+.
 
 
 ## SUMMARY OF KEY POINTS
@@ -200,7 +201,8 @@ If you are located in Switzerland, you may contact the Federal Data Protection a
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-If you have questions or comments about your privacy rights, you may email us at kana.senpai.app@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at contact@kana-senpai.app
+.
 
 ## 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -258,7 +260,8 @@ We may also collect other personal information outside of these categories throu
 
 More information about our data collection and sharing practices can be found in this privacy notice.
 
-You may contact us by email at kana.senpai.app@gmail.com, or by referring to the contact details at the bottom of this document.
+You may contact us by email at contact@kana-senpai.app
+, or by referring to the contact details at the bottom of this document.
 
 If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -322,7 +325,8 @@ We will only use personal information provided in your request to verify your id
 
 - You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at kana.senpai.app@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at contact@kana-senpai.app
+, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 ## 11. DO WE MAKE UPDATES TO THIS NOTICE?
 
@@ -332,7 +336,8 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at kana.senpai.app@gmail.com
+If you have questions or comments about this notice, you may email us at contact@kana-senpai.app
+
 
 
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
