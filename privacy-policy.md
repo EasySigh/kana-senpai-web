@@ -66,7 +66,7 @@ We collect personal information that you voluntarily provide to us when you expr
 
 - _Mobile Device Access._ We may request access or permission to certain features from your mobile device, including your mobile device's storage, network, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 
-- _Push Notifications._ We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
+- _Push Notifications._ We may request to send you push notifications regarding certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
 This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
 
@@ -174,11 +174,15 @@ The Services, including our offer wall, may link to third-party websites, online
 
 ## 6. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-**In Short:** _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
+**In Short:** _We automatically delete your information within 90 days._
 
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
+We are committed to ensuring the privacy and security of your information. As such, we have implemented a policy to automatically delete all data collected from you within 90 days.
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+We will only retain your personal information for the duration necessary to fulfill the purposes outlined in this privacy notice, and we ensure that this retention period aligns with your privacy and data protection rights. After this 90-day period, all of your data will be securely and permanently deleted from our systems.
+
+In exceptional cases where we are required to retain your information for longer periods due to legal obligations, such as tax, accounting, or other legal requirements, we will ensure that your data remains protected and is not used for any other purpose than those required by law.
+
+Rest assured, your privacy is of utmost importance to us, and we take every measure to protect and respect your data in accordance with this policy.
 
 ## 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
