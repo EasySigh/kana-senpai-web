@@ -398,6 +398,45 @@ header .talisman {
   }
 }
 
+#blackLink {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  transform: scale(1.5);
+  padding: 5px;
+  border-radius: 50%;
+  background-color: #ff8a42;
+}
+
+#deleteData {
+  position: relative;
+  min-height: 100vh;
+  min-width: 100vw;
+  background-color: var(--kana-secondary);
+}
+
+#deleteData article {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+#appName {
+  font-size: 28px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+@media(min-width: 1024px) {
+  #deleteData article {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    padding: 20px 50px;
+  }
+}
+
 /*
 ! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com
 */
@@ -1036,6 +1075,10 @@ video {
   margin-top: 2rem;
 }
 
+.block{
+  display: block;
+}
+
 .inline-block{
   display: inline-block;
 }
@@ -1050,6 +1093,10 @@ video {
 
 .hidden{
   display: none;
+}
+
+.list-decimal{
+  list-style-type: decimal;
 }
 
 .flex-col{
@@ -1154,10 +1201,6 @@ video {
 @media (min-width: 768px){
   .md\:mt-10{
     margin-top: 2.5rem;
-  }
-
-  .md\:mt-0{
-    margin-top: 0px;
   }
 
   .md\:gap-10{
