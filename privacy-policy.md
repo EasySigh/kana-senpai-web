@@ -1,15 +1,14 @@
 # Privacy Policy
 
-Last updated September 25, 2023
+Last updated October 02, 2023
 
 
-This privacy notice for Dennis the Menace ("**we**", "**us**", or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
+This privacy notice for Ketis Web ("**we**", "**us**", or "**our**"), describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
 - Download and use our mobile application (Kana Senpai), or any other application of ours that links to this privacy notice
 - Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@kana-senpai.app
-.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at contact@kana-senpai.app .
 
 
 ## SUMMARY OF KEY POINTS
@@ -26,9 +25,9 @@ This privacy notice for Dennis the Menace ("**we**", "**us**", or "**our**"), de
 
 **In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#4-when-and-with-whom-do-we-share-your-personal-information).
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#7-how-do-we-keep-your-information-safe).
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#9-how-do-we-keep-your-information-safe).
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#8-what-are-your-privacy-rights).
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#10-what-are-your-privacy-rights).
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
@@ -42,14 +41,16 @@ This privacy notice for Dennis the Menace ("**we**", "**us**", or "**our**"), de
 3. [WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#3-what-legal-bases-do-we-rely-on-to-process-your-information)
 4. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)
 5. [WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](#5-what-is-our-stance-on-third-party-websites)
-6. [HOW LONG DO WE KEEP YOUR INFORMATION?](#6-how-long-do-we-keep-your-information)
-7. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#7-how-do-we-keep-your-information-safe)
-8. [WHAT ARE YOUR PRIVACY RIGHTS?](#8-what-are-your-privacy-rights)
-9. [CONTROLS FOR DO-NOT-TRACK FEATURES](#9-controls-for-do-not-track-features)
-10. [DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#10-do-california-residents-have-specific-privacy-rights)
-11. [DO WE MAKE UPDATES TO THIS NOTICE?](#11-do-we-make-updates-to-this-notice)
-12. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)
-13. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#13-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
+6. [DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?](#6-do-we-use-cookies-and-other-tracking-technologies)
+7. [IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](#7-is-your-information-transferred-internationally)
+8. [HOW LONG DO WE KEEP YOUR INFORMATION?](#8-how-long-do-we-keep-your-information)
+9. [HOW DO WE KEEP YOUR INFORMATION SAFE?](#9-how-do-we-keep-your-information-safe)
+10. [WHAT ARE YOUR PRIVACY RIGHTS?](#10-what-are-your-privacy-rights)
+11. [CONTROLS FOR DO-NOT-TRACK FEATURES](#11-controls-for-do-not-track-features)
+12. [DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#12-do-united-states-residents-have-specific-privacy-rights)
+13. [DO WE MAKE UPDATES TO THIS NOTICE?](#13-do-we-make-updates-to-this-notice)
+14. [HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#14-how-can-you-contact-us-about-this-notice)
+15. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#15-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
@@ -92,6 +93,12 @@ The information we collect includes:
 **In Short:** _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
 
 **We process your personal information for a variety of reasons, depending on how you interact with our Services, including:**
+
+- **To request feedback.** We may process your information when necessary to request feedback and to contact you about your use of our Services.
+
+- **To identify usage trends.** We may process information about how you use our Services to better understand how they are being used so we can improve them.
+
+- **To determine the effectiveness of our marketing and promotional campaigns.** We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.
 
 - **To deliver targeted advertising to you.** We may process your information to develop and display personalized content and advertising tailored to your interests, location, and more.
 
@@ -154,17 +161,27 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 
 **In Short:** _We may share information in specific situations described in this section and/or with the following third parties._
 
-We may need to share your personal information in the following situations:
+**Vendors, Consultants, and Other Third-Party Service Providers.** We may share your data with third-party vendors, service providers, contractors, or agents ("third parties") who perform services for us or on our behalf and require access to such information to do that work. We have contracts in place with our third parties, which are designed to help safeguard your personal information. This means that they cannot do anything with your personal information unless we have instructed them to do it. They will also not share your personal information with any organization apart from us. They also commit to protect the data they hold on our behalf and to retain it for the period we instruct. The third parties we may share personal information with are as follows:
+
+* Functionality and Infrastructure Optimization
+  * [Firebase Realtime Database](https://firebase.google.com/support/privacy)
+
+* Web and Mobile Analytics
+  * [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+
+* Website Testing
+  * [Google Play Console](https://www.google.com/policies/privacy/)
+  * [Google Play Services](https://www.google.com/policies/privacy/)
+ 
+* Advertising, Direct Marketing, and Lead Generation
+  * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+
+We also may need to share your personal information in the following situations:
 
 - **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
 - **Offer Wall.** Our application(s) may display a third-party hosted "offer wall." Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our application(s) and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our application(s). A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward.
 
-We may need to share your personal information with the following third-party services:
-
-* [Google Play Services](https://www.google.com/policies/privacy/)
-* [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-* [FireBase](https://firebase.google.com/support/privacy)
 
 ## 5. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 
@@ -172,64 +189,68 @@ We may need to share your personal information with the following third-party se
 
 The Services, including our offer wall, may link to third-party websites, online services, or mobile applications and/or contain advertisements from third parties that are not affiliated with us and which may link to other websites, services, or applications. Accordingly, we do not make any guarantee regarding any such third parties, and we will not be liable for any loss or damage caused by the use of such third-party websites, services, or applications. The inclusion of a link towards a third-party website, service, or application does not imply an endorsement by us. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services, or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.
 
-## 6. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-**In Short:** _We automatically delete your information within 90 days._
+## 6. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
-We are committed to ensuring the privacy and security of your information. As such, we have implemented a policy to automatically delete all data collected from you within 90 days.
+**In Short:** _We may use cookies and other tracking technologies to collect and store your information._
 
-We will only retain your personal information for the duration necessary to fulfill the purposes outlined in this privacy notice, and we ensure that this retention period aligns with your privacy and data protection rights. After this 90-day period, all of your data will be securely and permanently deleted from our systems.
+We may use cookies and similar tracking technologies (like web beacons and pixels) to access or store information. Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 
-In exceptional cases where we are required to retain your information for longer periods due to legal obligations, such as tax, accounting, or other legal requirements, we will ensure that your data remains protected and is not used for any other purpose than those required by law.
 
-Rest assured, your privacy is of utmost importance to us, and we take every measure to protect and respect your data in accordance with this policy.
+## 7. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 
-## 7. HOW DO WE KEEP YOUR INFORMATION SAFE?
+**In Short:** _We may transfer, store, and process your information in countries other than your own._
+
+Our servers are located in Belgium. If you are accessing our Services from outside Belgium, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)" above), in the United States, and other countries.
+
+If you are a resident in the European Economic Area (EEA), United Kingdom (UK), or Switzerland, then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. However, we will take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law.
+
+European Commission's Standard Contractual Clauses:
+
+We have implemented measures to protect your personal information, including by using the European Commission's Standard Contractual Clauses for transfers of personal information between our group companies and between us and our third-party providers. These clauses require all recipients to protect all personal information that they process originating from the EEA or UK in accordance with European data protection laws and regulations. Our Data Processing Agreements that include Standard Contractual Clauses are available here: [Data Processing Agreement](https://github.com/EasySigh/kana-senpai-web/blob/main/data-processing-agreement.md). We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request.
+
+
+## 8. HOW LONG DO WE KEEP YOUR INFORMATION?
+
+**In Short:** _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than 90 days.
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+## 9. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 **In Short:** _We aim to protect your personal information through a system of organizational and technical security measures._
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-## 8. WHAT ARE YOUR PRIVACY RIGHTS?
+## 10. WHAT ARE YOUR PRIVACY RIGHTS?
 
 **In Short:** _In some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time._
 
-In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (vi) if applicable, to data portability; and (vii) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)" below.
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (vi) if applicable, to data portability; and (vii) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#14-how-can-you-contact-us-about-this-notice)" below.
 
 We will consider and act upon any request in accordance with applicable data protection laws.
 If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your [Member State data protection authority](https://ec.europa.eu/newsroom/article29/items/612080/en) or [UK data protection authority](https://ico.org.uk/make-a-complaint/data-protection-complaints/data-protection-complaints/).
 
 If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.
 
-**Withdrawing your consent**: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)" below.
+**Withdrawing your consent**: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#14-how-can-you-contact-us-about-this-notice)" below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+<u>**Cookies and similar technologies:**</u> Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Services. You may also opt out of interest-based advertising by advertisers on our Services.
 
 If you have questions or comments about your privacy rights, you may email us at contact@kana-senpai.app
 .
 
-## 9. CONTROLS FOR DO-NOT-TRACK FEATURES
+## 11. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 
-## 10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+## 12. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 **In Short:** _Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information._
-
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
-
-If you are under 18 years of age, reside in California, and have a registered account with Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
-
-### CCPA Privacy Notice
-
-The California Code of Regulations defines a "resident" as:
-
-1. every individual who is in the State of California for other than a temporary or transitory purpose and
-2. every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
-
-All other individuals are defined as "non-residents."
-
-If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
 
 **What categories of personal information do we collect?**
 
@@ -262,20 +283,35 @@ We may also collect other personal information outside of these categories throu
 
 **How do we use and share your personal information?**
 
-More information about our data collection and sharing practices can be found in this privacy notice.
-
-You may contact us by email at contact@kana-senpai.app
-, or by referring to the contact details at the bottom of this document.
-
-If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
+Learn about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)"
 
 **Will your information be shared with anyone else?**
 
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Each service provider is a for-profit entity that processes the information on our behalf, following the same strict privacy protection obligations mandated by the CCPA.
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)"
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 
-We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
+The categories of third parties to whom we disclosed personal information for a business or commercial purpose can be found under "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)"
+
+
+## California Residents
+
+California Civil Code Section 1798.83, also known as the "Shine The Light" law permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
+
+<u>**CCPA Privacy Notice**</u>
+
+This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
+
+The California Code of Regulations defines a "residents" as:
+
+1. every individual who is in the State of California for other than a temporary or transitory purpose and
+2. every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
+
+All other individuals are defined as "non-residents."
+
+If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
 
 **Your rights with respect to your personal data**
 
@@ -329,21 +365,21 @@ We will only use personal information provided in your request to verify your id
 
 - You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at contact@kana-senpai.app
-, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at contact@kana-senpai.app, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you
+ 
 
-## 11. DO WE MAKE UPDATES TO THIS NOTICE?
+## 13. DO WE MAKE UPDATES TO THIS NOTICE?
 
 **In Short:** _Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+
+## 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at contact@kana-senpai.app
 
 
+## 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-
-You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/31ef4163-6284-4803-ad14-4daf05cf9442).
+You have the right to delete personal information we collect from you. To delete your personal information, please visit: ["Delete your data" Page](https://kana-senpai.app/delete-data).
