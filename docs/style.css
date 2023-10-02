@@ -398,9 +398,9 @@ header .talisman {
   }
 }
 
-#blackLink {
+#backLink {
   position: absolute;
-  top: 30px;
+  top: 20px;
   left: 20px;
   transform: scale(1.5);
   padding: 5px;
@@ -1071,6 +1071,10 @@ video {
   margin-top: 1rem;
 }
 
+.mt-5{
+  margin-top: 1.25rem;
+}
+
 .mt-8{
   margin-top: 2rem;
 }
@@ -1137,6 +1141,10 @@ video {
 
 .uppercase{
   text-transform: uppercase;
+}
+
+.underline{
+  text-decoration-line: underline;
 }
 
 @media (min-width: 640px){
