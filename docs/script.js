@@ -1,1 +1,39 @@
-(function(){"use strict";const e=document.querySelectorAll(".animated");const t=document.querySelector("#qr-code");const s=document.querySelector("#open-qr-btn");const c=document.querySelector("#close-qr-btn");for(let t=0;t<e.length;t++){setInterval(()=>{n(e[t])},+e[t].getAttribute("data-duration"))}function n(t){if(t.classList.contains("animated")){t.src=`assets/${t.getAttribute("data-name")}.svg?dummy=${Math.random()}`}}if(c){c.addEventListener("click",()=>{t.classList.remove("is-open");t.classList.add("is-closed");s.classList.add("shown")})}if(s){s.addEventListener("click",()=>{t.classList.remove("is-closed");s.classList.remove("shown");t.classList.add("is-open")})}})();
+
+(function(l, r) { if (!l || l.getElementById('livereloadscript')) return; r = l.createElement('script'); r.async = 1; r.src = '//' + (self.location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1'; r.id = 'livereloadscript'; l.getElementsByTagName('head')[0].appendChild(r) })(self.document);
+(function () {
+  'use strict';
+
+  const animatedElements = document.querySelectorAll('.animated');
+  const qrCodeElement = document.querySelector('#qr-code');
+  const openBtnElement = document.querySelector('#open-qr-btn');
+  const closeBtnElement = document.querySelector('#close-qr-btn');
+
+  for (let i = 0; i < animatedElements.length; i++) {
+    setInterval(() => {
+      restartAnimation(animatedElements[i]);
+    }, +animatedElements[i].getAttribute('data-duration'));
+  }
+
+  function restartAnimation(element) {
+    if (element.classList.contains('animated')) {
+      element.src = `assets/${element.getAttribute('data-name')}.svg?dummy=${Math.random()}`;
+    }
+  }
+
+  if (closeBtnElement) {
+    closeBtnElement.addEventListener('click', () => {
+      qrCodeElement.classList.remove('is-open');
+      qrCodeElement.classList.add('is-closed');
+      openBtnElement.classList.add('shown');
+    });
+  }
+
+  if (openBtnElement) {
+    openBtnElement.addEventListener('click', () => {
+      qrCodeElement.classList.remove('is-closed');
+      openBtnElement.classList.remove('shown');
+      qrCodeElement.classList.add('is-open');
+    });
+  }
+
+})();

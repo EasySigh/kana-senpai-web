@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Delete Analytics Data</title>
+  <title>Delete collected data</title>
   <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
   <meta name="format-detection" content="telephone=no" />
   <meta name="msapplication-tap-highlight" content="no" />
@@ -16,7 +16,13 @@
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <link rel="icon" href="favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+  <link rel="manifest" href="manifest.json">
+  <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#FF8A42">
   <link rel="stylesheet" href="style.css">
 </head>
 <body id="deleteData">
@@ -25,20 +31,24 @@
     <a href="/" id="backLink"><img src="assets/arrow_back.svg" alt="<"></a>
     <h1 id="appName">Kana Senpai <small class="block lg:inline">(by Ketis Web)</small></h1>
 
-    <h3 class="font-bold mb3">Types of data that will be deleted</h3>
-    <p>Log and Usage Data. Your navigation in our app, game/quiz result and app settings.</p>
-    <p>
-      If you still have questions about the data we collect or how long we retain information, you can read our
-      <a href="https://github.com/EasySigh/kana-senpai-web/blob/main/privacy-policy.md" target="_blank" class="underline">Privacy Policy</a>.
-    </p>
+    <section>
+      <h3 class="font-bold mb-2">Types of data that will be deleted</h3>
+      <p>Log and Usage Data. Your navigation in our app, game/quiz result and app settings.</p>
+      <p>
+        If you still have questions about the data we collect or how long we retain information, you can read our
+        <a href="https://github.com/EasySigh/kana-senpai-web/blob/main/privacy-policy.md" target="_blank" class="underline">Privacy Policy</a>.
+      </p>
+    </section>
 
-    <h3 class="font-bold mb-3 mt-5">Follow the steps below to delete collected application usage data:</h3>
-    <ul class="list-decimal ml-4 mb-3">
-      <li>Open the app</li>
-      <li>Go to <strong>Settings</strong></li>
-      <li>Tap on "<strong>DELETE DATA</strong>" button</li>
-      <li>Confirm the action by tapping the button "<strong>Yes</strong>"</li>
-    </ul>
+    <main>
+      <h3 class="font-bold mb-2 mt-5">Follow the steps below to delete collected application usage data</h3>
+      <ol class="list-decimal ml-4 mb-3">
+        <li>Open the app</li>
+        <li>Go to <strong>Settings</strong></li>
+        <li>Tap on "<strong>DELETE DATA</strong>" button</li>
+        <li>Confirm the action by tapping the button "<strong>Yes</strong>"</li>
+      </ol>
+    </main>
 
     <div class="flex justify-center">
       <video width="350" height="600" controls autoplay loop poster="assets/poster.png">

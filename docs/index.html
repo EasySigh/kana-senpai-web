@@ -16,147 +16,160 @@
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <link rel="icon" href="favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+  <link rel="manifest" href="manifest.json">
+  <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#FF8A42">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <main class="p-4 lg:p-0 lg:pt-20">
+  <div class="p-4 lg:p-0 lg:pt-20">
     <header class="container mx-auto">
       <div id="logo">
-        <img src="assets/logo.svg" alt="">
-        <h1 class="uppercase">Kana <br/> Senpai</h1>
-      </div>
-      <div id="lang">
-        <a href="/ru">RU</a>
+        <img src="assets/logo.svg" alt="Logo">
+        <h1 class="uppercase whitespace-pre-line">Kana
+          Senpai
+        </h1>
       </div>
 
       <div class="grid mt-24 gap-8 md:gap-10 lg:gap-20 lg:mt-5 lg:block lg:columns-2">
         <div class="sm:text-center lg:text-left order-2 xl:w-3/4 2xl:w-full">
-          <h1 class="heading">Learn Japanese Kana with ease and enjoyment</h1>
-          <p class="subheading mt-3 mb-5">Master understanding and writing in Japanese through games and tests.</p>
+          <main>
+            <h1 class="heading">Learn Japanese Kana with ease and enjoyment</h1>
+            <p class="subheading mt-3 mb-5">Master understanding and writing in Japanese through games and tests.</p>
+          </main>
 
           <div class="md:mt-10 sm:justify-center lg:justify-start flex">
             <a href="https://play.google.com/store/apps/details?id=com.kana.senpai" target="_blank">
-              <img src="assets/googleplay.svg" alt="">
+              <img src="assets/googleplay.svg" alt="Google Play">
             </a>
             <div class="ml-3 coming-soon">
               <span>Coming soon</span>
-              <img src="assets/appstore.svg" alt="">
+              <img src="assets/appstore.svg" alt="App Store">
             </div>
           </div>
         </div>
 
         <div class="mt-10 text-center uppercase font-bold hidden lg:flex lg:mt-10" style="color:#BEBEBE">
           <div>
-            <img class="inline-block mb-3" src="assets/children.svg" alt="">
+            <img class="inline-block mb-3" src="assets/children.svg" alt="Child Friendly">
             <p>child-friendly<br>app</p>
           </div>
           <div class="ml-10">
-            <img class="inline-block mb-3" src="assets/education.svg" alt="">
+            <img class="inline-block mb-3" src="assets/education.svg" alt="Education">
             <p>education<br>app</p>
           </div>
         </div>
 
         <div class="screen-demo order-1">
           <div class="mr-2">
-            <img class="screen animated" id="raised" src="assets/splash_screen.svg" data-name="splash_screen" height="472" data-duration="5000" alt="">
+            <img class="screen animated" id="raised" src="assets/splash_screen.svg" data-name="splash_screen" height="472" data-duration="5000" alt="Splash Screen">
           </div>
           <div class="app-bg ml-2">
-            <img class="screen" src="assets/home_page.svg" height="472" alt="">
+            <img class="screen" src="assets/home_page.svg" height="472" alt="Home page">
           </div>
-          <img class="decorative header" src="assets/decorative_header.svg" alt="">
-          <img class="talisman" src="assets/happy.svg" alt="">
+          <img class="decorative header" src="assets/decorative_header.svg" alt="Decorative image">
+          <img class="talisman" src="assets/happy.svg" alt="Talisman">
         </div>
+      </div>
+
+      <div id="lang">
+        <a href="/ru" role="button">RU</a>
       </div>
     </header>
 
     <section class="container mx-auto mt-10 quizzes">
       <div class="grid lg:block lg:columns-2 lg:gap-5">
-        <div class="mb-4 order-1 sm:mx-auto lg:hidden">
-          <span class="title uppercase color-primary font-bold sm:block">quizzes</span>
+        <article class="mb-4 order-1 sm:mx-auto lg:hidden">
+          <strong class="title uppercase color-primary sm:block">quizzes</strong>
           <h2 class="heading section-title sm:inline-block">Test your knowledge</h2>
-        </div>
+        </article>
 
         <div class="screen-demo order-2">
           <div class="app-bg">
-            <img class="screen animated" src="assets/quiz_variants.svg" data-name="quiz_variants" data-duration="5000" loading="lazy" alt="">
+            <img class="screen animated" src="assets/quiz_variants.svg" data-name="quiz_variants" data-duration="5000" loading="lazy" alt="Quiz — One of four">
           </div>
           <div class="app-bg ml-4">
-            <img class="screen animated app-bg" src="assets/quiz_direct.svg" data-name="quiz_direct" data-duration="7000" loading="lazy" alt="">
+            <img class="screen animated app-bg" src="assets/quiz_direct.svg" data-name="quiz_direct" data-duration="7000" loading="lazy" alt="Quiz — One to one">
           </div>
-          <img class="decorative left" src="assets/decorative.svg" loading="lazy" alt="">
-          <img class="talisman lg:hidden" src="assets/drawing.svg" loading="lazy" alt="">
+          <img class="decorative left" src="assets/decorative.svg" loading="lazy" alt="Decorative image">
+          <img class="talisman lg:hidden" src="assets/drawing.svg" loading="lazy" alt="Talisman">
         </div>
 
-        <div class="mt-8 order-3 sm:text-center lg:mt-0 lg:text-left">
-          <span class="title uppercase color-primary font-bold hidden lg:inline">quizzes</span>
+        <article class="mt-8 order-3 sm:text-center lg:mt-0 lg:text-left">
+          <strong class="title uppercase color-primary hidden lg:inline">quizzes</strong>
           <h2 class="heading section-title hidden lg:block">Test your knowledge</h2>
 
-          <p class="title mt-4">One of four</p>
+          <strong class="title block mt-4">One of four</strong>
           <p class="text sm:w-2/3 sm:inline-block lg:block lg:w-full">Choose the correct character from one alphabet that corresponds to a character from another alphabet.</p>
 
-          <p class="title mt-4">One to one</p>
+          <strong class="title block mt-4">One to one</strong>
           <p class="text sm:w-2/3 sm:inline-block lg:block lg:w-full">Train your memory and character writing using the Japanese keyboard layout on your phone.</p>
 
-          <img class="hidden mt-3 lg:block" src="assets/drawing.svg" alt="">
-        </div>
+          <img class="hidden mt-3 lg:block" src="assets/drawing.svg" alt="Talisman">
+        </article>
       </div>
     </section>
 
     <section class="container mx-auto mt-10 lg:mt-20 games">
       <div class="grid lg:block lg:columns-2 lg:gap-5">
-        <div class="mb-4 order-1 sm:mx-auto lg:hidden">
-          <span class="title uppercase color-primary font-bold sm:block">games</span>
+        <article class="mb-4 order-1 sm:mx-auto lg:hidden">
+          <strong class="title uppercase color-primary sm:block">games</strong>
           <h2 class="heading section-title sm:inline-block">Easy learning through simple games</h2>
-        </div>
+        </article>
 
-        <div class="mt-8 order-3 sm:text-center sm:mt-16 lg:mt-0 lg:text-left">
-          <span class="title uppercase color-primary font-bold hidden lg:inline">games</span>
+        <article class="mt-8 order-3 sm:text-center sm:mt-16 lg:mt-0 lg:text-left">
+          <strong class="title uppercase color-primary hidden lg:inline">games</strong>
           <h2 class="heading hidden lg:block">Easy learning through simple games</h2>
 
-          <p class="title mt-4">Find sibling</p>
+          <strong class="title block mt-4">Find sibling</strong>
           <p class="text sm:w-2/3 sm:inline-block lg:block lg:w-full">Match corresponding symbols from different alphabets.</p>
 
-          <p class="title mt-4">Words constructor</p>
+          <strong class="title block mt-4">Words constructor</strong>
           <p class="text sm:w-2/3 sm:inline-block lg:block lg:w-full">Assemble the words from their parts together in the right order.</p>
-        </div>
+        </article>
 
         <div class="screen-demo order-2">
           <div class="app-bg">
-            <img class="screen animated" src="assets/game_siblings.svg" data-name="game_siblings" data-duration="5000" loading="lazy" alt="">
+            <img class="screen animated" src="assets/game_siblings.svg" data-name="game_siblings" data-duration="5000" loading="lazy" alt="Game — Siblings">
           </div>
           <div class="app-bg ml-4">
-            <img class="screen animated" src="assets/game_words.svg" data-name="game_words" data-duration="7000" loading="lazy" alt="">
+            <img class="screen animated" src="assets/game_words.svg" data-name="game_words" data-duration="7000" loading="lazy" alt="Game — Word Constructor">
           </div>
-          <img src="assets/decorative.svg" class="decorative right" loading="lazy" alt="">
-          <img src="assets/gamer.svg" class="talisman" loading="lazy" alt="">
+          <img src="assets/decorative.svg" class="decorative right" loading="lazy" alt="Decorative">
+          <img src="assets/gamer.svg" class="talisman" loading="lazy" alt="Talisman">
         </div>
       </div>
     </section>
 
-    <section class="container flex-col lg:flex-row mx-auto mt-10 p-8 lg:mt-20 contact">
-      <img src="assets/contact.png" alt="">
+    <address class="container flex-col lg:flex-row mx-auto mt-10 p-8 lg:mt-20 contact">
+      <img src="assets/contact.png" alt="Contact image">
       <div class="text-center mt-8 lg:text-left lg:mt-0 lg:ml-16">
         <h1 class="heading mb-4">If you have any questions or suggestions <br/> — write to our email!</h1>
         <p class="subtitle"><a href="mailto:contact@kana-senpai.app">contact@kana-senpai.app</a></p>
       </div>
-    </section>
+    </address>
 
     <footer class="mt-10 p-10 lg:mt-20 footer">
         <div class="flex">
-          <img src="assets/love.svg" width="100" alt="">
-          <h1 class="heading uppercase ml-2">kana <br/> senpai</h1>
+          <img src="assets/love.svg" width="100" alt="Talisman">
+          <h1 class="heading uppercase whitespace-pre-line ml-2">kana
+            senpai
+          </h1>
         </div>
 
         <p class="title text-center my-8">Learn Japanese Kana <br/> with ease and enjoyment</p>
 
         <div class="flex flex-col lg:flex-row lg:justify-center">
           <a href="https://play.google.com/store/apps/details?id=com.kana.senpai" target="_blank">
-            <img src="assets/googleplay.svg" alt="">
+            <img src="assets/googleplay.svg" alt="Google Play">
           </a>
           <div class="mt-3 lg:mt-0 lg:ml-3 coming-soon">
             <span>Coming soon</span>
-            <img src="assets/appstore.svg" alt="">
+            <img src="assets/appstore.svg" alt="App Store">
           </div>
         </div>
 
@@ -166,19 +179,19 @@
           <a href="https://github.com/EasySigh/kana-senpai-web/blob/main/terms_and_conditions.md" class="ml-4 lg:ml-0">Terms and Conditions</a>
         </div>
     </footer>
-  </main>
+  </div>
 
-  <div id="qr-code" class="is-open hidden lg:block">
-    <img id="close-qr-btn" src="assets/close.svg" alt="">
-    <div id="open-qr-btn">
+  <aside id="qr-code" class="is-open hidden lg:block">
+    <img id="close-qr-btn" src="assets/close.svg" alt="✖" role="button">
+    <div id="open-qr-btn" role="button">
       <span>Show QR code</span>
-      <img src="assets/arrow.svg" width="24" height="27" alt="">
+      <img src="assets/arrow.svg" width="24" height="27" alt=">">
     </div>
     <div id="qr-wrapper">
-      <img src="assets/qr_code.svg" alt="">
+      <img src="assets/qr_code.svg" alt="</qr-code>">
     </div>
     <p class="font-bold">Download the app</p>
-  </div>
+  </aside>
 
 <script src="script.js"></script>
 </body>
