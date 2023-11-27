@@ -2,6 +2,7 @@
 
 html {
   font-family: Roboto, 'sans-serif';
+  overflow-x: hidden;
   --kana-primary: #FF8A42;
   --kana-secondary: #FEF0E7;
   --kana-gray: #505050;
